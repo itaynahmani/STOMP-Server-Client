@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/users/bsc/2023/yehoudas/SPL231-Assignment3-student-template/client/bin",
+            "binaryPath": "/home/users/bsc/2023/yehoudas/SPL231-Assignment3-student-template/client/bin/StompWCIClient",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
